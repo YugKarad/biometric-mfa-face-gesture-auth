@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f6f8;
+}
+
+video {
+    width: 400px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.controls {
+    margin-top: 15px;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#status {
+    margin-top: 10px;
+    font-weight: bold;
+}
